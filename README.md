@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nic-gitlab
-- I’m interested in iOS Development
-- I’m currently learning Swift
+- I build apps using SwiftUI 
 
 
 <!---
