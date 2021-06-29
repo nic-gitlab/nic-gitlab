@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nic-gitlab
-- I build apps using SwiftUI 
+- I build apps in SwiftUI 
 
 
 <!---
