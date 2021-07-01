@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @nic-gitlab
-- I build apps in SwiftUI 
+
+- I recently completed a full stack software development bootcamp, and am currently working on projects in SwiftUI for iOS mobile development.
+
+During the bootcamp I completed projects where I worked with elements of the following languages and frameworks:
+
+- Javascript, HTML, CSS, DOM, Handlebars, React, databases using PostgreSQL, Node.js
+- Java, Hibernate, JSP, Spring, Spring and React 
+
+Concepts covered included test driven development, object oriented programing, web design, coding best practices, project development including user stories, and conceptual discussions around data validation, security through code, etc.
 
 
 <!---
