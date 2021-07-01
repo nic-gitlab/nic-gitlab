@@ -4,10 +4,11 @@
 
 During the bootcamp I completed projects where I worked with elements of the following languages and frameworks:
 
-- Javascript, HTML, CSS, DOM, Handlebars, React, databases using PostgreSQL, Node.js
-- Java, Hibernate, JSP, Spring, Spring and React 
+- Javascript, HTML, CSS, Handlebars, Node.js, Express.
+- Java, Hibernate, JSP, Spring, Spring.
+- databases using PostgreSQL, and React front end.
 
-Concepts covered included test driven development, object oriented programing, web design, coding best practices, project development including user stories, and conceptual discussions around data validation, security through code, etc.
+Some of the main concepts covered were test driven development, object oriented programing, web design, coding best practices, project development including user stories, and front end/ back end data validation.
 
 
 <!---
