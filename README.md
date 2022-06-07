@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nic-gitlab
 
-I'm an experienced full stack developer turned data analyst / database devloper. 
+I'm an experienced full stack developer turned database devloper. 
 
 
 <!---
